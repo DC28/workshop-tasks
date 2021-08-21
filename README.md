@@ -1,3 +1,3 @@
-# COMP3120 Workshop Tasks
+# COMP3120 Starting my assignment 
 
-This repository will be used for weekly workshop tasks for COMP3120.
+This repository will be used for Assignment for COMP3120.
